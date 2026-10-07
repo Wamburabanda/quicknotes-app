@@ -149,4 +149,5 @@ if (clearAllBtn) {
 }
 
 // Initial Render on Load
-render();
+render(); 
+// Updated validation and search).
