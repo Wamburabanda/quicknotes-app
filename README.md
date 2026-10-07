@@ -19,3 +19,4 @@ QuickNotes is a lightweight, responsive web application designed for creating, o
 1. Using `createElement` and `textContent` instead of `innerHTML` ensures user inputs are securely handled without exposure to Cross-Site Scripting (XSS) vulnerabilities.
 2. Implementing `localStorage` with `JSON.stringify` and `JSON.parse` allows web applications to retain state seamlessly between browser sessions.
 3. Building responsive Flexbox layouts with `@media (max-width: 600px)` ensures dynamic control layout scaling across different viewport sizes.
+   
